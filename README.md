@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7e06b383-a94c-4cf1-bfbb-d63cbf56e11e)# Note-App-With-Electron
+# Note-App-With-Electron
 
 An Electron application with React and TypeScript
 
