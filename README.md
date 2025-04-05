@@ -1,4 +1,4 @@
-# Note-App-With-Electron
+![image](https://github.com/user-attachments/assets/7e06b383-a94c-4cf1-bfbb-d63cbf56e11e)# Note-App-With-Electron
 
 An Electron application with React and TypeScript
 
@@ -32,3 +32,14 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+
+## Preview
+![image](https://github.com/user-attachments/assets/2eac7160-8be4-445a-8c25-1269d803fd5e)
+
+![image](https://github.com/user-attachments/assets/da96b5f6-9631-4089-ba3f-adbab3bed744)
+
+![image](https://github.com/user-attachments/assets/2a4aceb9-3cc1-4113-b23f-3efd1f40672d)
+
+
+
